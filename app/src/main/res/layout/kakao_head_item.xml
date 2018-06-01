@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/head_search_edit"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:hint="친구검색"
+        />
+
+</LinearLayout>
